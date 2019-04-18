@@ -5,3 +5,4 @@ from django.contrib import admin
 from .models import ShopRedactRequest
 
 admin.site.register(ShopRedactRequest)
+admin.site.register(Shop)

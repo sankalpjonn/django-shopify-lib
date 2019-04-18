@@ -13,5 +13,5 @@ setup(
  long_description_content_type="text/markdown",
  url="https://github.com/sankalpjonn/django-shopify-lib",
  include_package_data=True,
- install_requires=['Django', 'djangorestframework']
+ install_requires=['Django', 'djangorestframework', 'requests']
 )
