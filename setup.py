@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
  name='django-shopify-lib',
  version='1.0.0',
- packages=['installation'],
+ packages=['installation', 'installation.migrations'],
  license = 'MIT',
  description = 'Boiler plate code for shopify app installation and other utilities',
  author = 'Sankalp Jonna',
